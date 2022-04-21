@@ -6,12 +6,12 @@ Ir0nMaiden×WEST-SEC CTF 2022 作問者の一人 [Satoki](https://twitter.com/sa
 2022で私が作った問題(プロトタイプ)は以下になります。  
 
 - misc
-  - [🐈 NakoNako](misc/nakonako) [X Solves]  
-  - [🧊 DS_Zip](misc/ds_zip) [X Solves]  
+  - [🐈 NakoNako](misc/nakonako) [12 Solves]  
+  - [🧊 DS_Zip](misc/ds_zip) [0 Solves]  
 - osint
-  - [🚅 Civilization](osint/civilization) [X Solves]  
+  - [🚅 Civilization](osint/civilization) [22 Solves]  
 - web
-  - [🥵 Death_Source](web/death_source) [X Solves]  
+  - [🥵 Death_Source](web/death_source) [0 Solves]  
 
 プロトタイプということもあり、実際に出題された問題とは一部異なります。  
 miscとosintは8割解けるようにwebは2割解けるようにしたつもりです。  
